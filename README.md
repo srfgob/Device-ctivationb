@@ -13,7 +13,7 @@
     }.
     {
         "device_id": "7afaa4b4192225c4",
-        "key": "kehh6666",
+        "key": "hhhhhr6",
         "expirydate": "15-06-2029",
         "Allowoffline": false
     }
