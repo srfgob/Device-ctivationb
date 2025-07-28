@@ -9,17 +9,12 @@
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
-      "Allowoffline": false
-    }.
-{
-        "device_id": "7afaa4b4192225c4",
-        "key": "Menu336",
-        "expirydate": "15-09-2028",
         "Allowoffline": false
-    }
-{
-        "device_id": "device456",
-        "key": "key6780",
+    }.
+    {
+        "device_id": "7afaa4b4192225c4",
+        "key": "kehh6",
         "expirydate": "15-06-2029",
         "Allowoffline": false
     }
+]
